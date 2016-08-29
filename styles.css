@@ -17,12 +17,15 @@ a:link, a:visited {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .grid__item {
   flex: 1;
   padding: 2px;
   border: solid 1px #e7e7e7;
+  text-align: center;
 }
 
 @media all and ( min-width: 480px ) {
