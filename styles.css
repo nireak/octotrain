@@ -1,8 +1,9 @@
+html {background: #DCE3E6;}
 H2 { text-align: center }
 
 a:link, a:visited {
   text-decoration: none;
-  color: #808080;
+  color: #606060;
 }
 
 .grid {
